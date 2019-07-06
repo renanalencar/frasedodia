@@ -30,7 +30,6 @@
         android:layout_marginTop="29dp"
         android:layout_marginEnd="16dp"
         android:layout_marginRight="16dp"
-        android:text="TextView"
         android:textColor="#FFFFFF"
         android:textSize="@dimen/texto_nova_frase"
         app:layout_constraintEnd_toEndOf="parent"
